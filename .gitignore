@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# AdditionalAssets
+Content/FantasyOrchestral/
+Content/PN_interactiveSpruceForest/
+Content/PhotoR_Backgrounds/
